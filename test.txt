@@ -1,3 +1,4 @@
 gitignore yang tidak perlu dipush ke git
 https://github.com/github/gitignore/blob/main/Node.gitignore
 
+git checkout -b [nama branch]
